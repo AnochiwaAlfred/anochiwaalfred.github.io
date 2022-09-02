@@ -1,0 +1,50 @@
+.cont{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
+.bg-darkg{
+    background-color: rgb(0, 119, 101);
+}
+
+.btn-outline-success{
+    border: 1px solid  rgb(0, 119, 101);
+    color:  rgb(0, 119, 101);
+}
+
+#bg-darkg:hover{
+    background-color: rgb(0, 119, 101);
+}
+
+.bg-lightg{
+    background-color: rgb(0, 155, 132);
+}
+
+.bg-darko{
+    background-color: #ce381e;
+}
+.bg-lighto{
+    background-color: #e44e33;
+}
+.navbar{
+    padding: 0px 15px;
+}
+
+.icon__0{
+    height: 50px;
+}
+
+.icon__1{
+    font-weight: 600;
+    font-size: 150%;
+    transition: all 0.7s ease;
+}
+
+.icon__2{
+    font-size: 90%; 
+    transition: all 0.7s ease;
+    color: rgb(230, 251, 248);
+}
+
